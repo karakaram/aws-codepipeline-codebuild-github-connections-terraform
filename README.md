@@ -1,1 +1,1 @@
-# aws-codepipeline-codebuild-github-connections-terraform
+# aws-codepipeline-github-terraform
